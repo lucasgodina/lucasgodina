@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 Dataset Collaborator at <a src="https://www.inkan.news/">Inkan.News</a>
+📊 Dataset Collaborator at Inkan.News
+🌱 I’m currently learning Data Science and WebDev
