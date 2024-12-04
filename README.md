@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 📊 Dataset Collaborator at Inkan.News
 - 🌱 I’m currently learning Data Science and WebDev
+- 👨‍🎓 Student - 2nd Year of Technical Degree in Software Development // 📖 Taking final exams! 
