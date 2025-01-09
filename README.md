@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📊 Dataset Collaborator at Inkan.News
-- 🌱 I’m currently learning Data Science and WebDev
-- 👨‍🎓 Student - 2nd Year of Technical Degree in Software Development // 📖 Taking final exams! 
+- 👨‍💻 Dataset Collaborator at [Inkan](https://inkan.media/platform/)
+- 👨‍🎓 Student - 3rd / Last Year of Technical Degree in Software Development
+- 📊 Currently studying [Associate Data Scientist](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) on DataCamp
