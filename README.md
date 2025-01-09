@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 Dataset Collaborator at [Inkan](https://inkan.media/platform/)
-- 👨‍🎓 Student - 3rd / Last Year of Technical Degree in Software Development
-- 📊 Currently studying [Associate Data Scientist](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) on DataCamp
+- 👨‍🎓 Student - 3rd / Last Year of [Technical Degree in Software Development](https://www.miituzaingo.gov.ar/es/es/centro-regional-universitario-de-ituzaingo)
+- 📊 Currently studying [Associate Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) on DataCamp
