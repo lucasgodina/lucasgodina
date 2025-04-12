@@ -56,8 +56,8 @@
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 
 ---
-
-![Datacamp](https://img.shields.io/badge/Datacamp-Certifications-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
+### DataCamp Certifications
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 🎓 **[My DataCamp Portfolio](https://www.datacamp.com/portfolio/lucasgodina)**  
 
@@ -122,18 +122,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </details>
-
----
-
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgodina&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgodina&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
 ---
 
