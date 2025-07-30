@@ -11,7 +11,7 @@
 📊 Passionate about **Data Science & Analytics**.  — currently on hold, but planning to revisit it in the near future  
 
 ---
-
+##
 ## 📘 Learning Journey
 
 ### 🧱 Currently Focused On
@@ -34,7 +34,7 @@
 
 
 ---
-
+##
 ## 🧰 Tech Stack
 
 **Languages & Scripting**  
@@ -68,6 +68,7 @@
 
 
 ---
+##
 ## 🧪 Other Credentials & Learning
 
 - 🎓 **[My DataCamp Portfolio](https://www.datacamp.com/portfolio/lucasgodina)**  
