@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 
 🀄 **Backend Developer** at [Inkan](https://inkan.news)  — currently building Django-based APIs  
-💻 **Final-Year Software Development student** at Centro Regional Universitario de Ituzaingó  
+💻 **Technical Software Developer student** at Centro Regional Universitario de Ituzaingó  
 🌱 Focused on deepening my **Backend Engineering** skills  
 📊 Passionate about **Data Science & Analytics**.  — currently on hold, but planning to revisit it in the near future  
 
@@ -19,7 +19,7 @@
 - Designing and building RESTful APIs with Django (views, serializers, routers, permissions)
 - Implementing authentication flows (sessions, tokens, JWT)
 - Applying clean code practices to backend logic
-- Following the book *Django 5 by Example* by Antonio Melé
+- Finishing the last projects to graduate
 
 ### ✅ Recently Completed
 
