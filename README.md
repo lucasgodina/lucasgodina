@@ -12,7 +12,7 @@ My role focuses on integrating AI models developed by the AI team into our core 
 My goal is to become a **T-Shaped Developer**:
 > **Deep expertise in:** Backend Development, specializing in Python (Django, FastAPI).
 >
-> **Broad knowledge in:** Frontend, Data Ecosystem, QA.
+> **Broad knowledge in:** Frontend, DevOps, Data Ecosystem, QA.
 
 ---
 
