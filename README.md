@@ -1,88 +1,64 @@
-<h1 align="center">Hi, I'm Lucas Godina — Backend Developer & Data Enthusiast</h1>
+<h1 align="center">Hi, I'm Lucas Godina</h1>
+<h3 align="center">Backend Developer | Python Specialist</h3>
 
+---
+
+## 🚀 About Me
+
+I am a **Software Development Technician** currently working as a **Backend Developer** at [Inkan](https://inkan.media).
+
+My role focuses on integrating AI models developed by the AI team into our core platform, effectively acting as the bridge between **AI Engineering** and **Backend Architecture**.
+
+My goal is to become a **T-Shaped Developer**:
+> **Deep expertise in:** Backend Development, specializing in Python (Django, FastAPI).
+>
+> **Broad knowledge in:** Frontend, Data Ecosystem, QA.
 
 ---
 
-## 🚀 About Me  
+## 🎯 2026 Goals & Roadmap
 
-🀄 **Backend Developer** at [Inkan](https://inkan.news)  — currently building Django-based APIs  
-💻 **Technical Software Developer student** at Centro Regional Universitario de Ituzaingó  
-🌱 Focused on deepening my **Backend Engineering** skills  
-📊 Passionate about **Data Science & Analytics**.  — currently on hold, but planning to revisit it in the near future  
+### 🚧 Active Projects
+- **Art Workshop Platform:** Building a highly aesthetic platform for an art studio.
+  - *Goal:* Leverage my Django experience while **learning and implementing** a modern "monolith" stack: **HTMX + TailwindCSS + Alpine.js**.
 
----
-##
-## 📘 Learning Journey
+### 📚 Learning Path
 
-### 🧱 Currently Focused On
+#### 🐍 Backend Specialization (Core)
+- **Advanced Django:** Deepening knowledge with *Django 5 by Example*, *Django for APIs*, and *Django for Professionals*.
+- **Next-Gen Backend:** Researching **Django 6**, focusing on native Tasks vs. Celery.
+- **Go (Golang):** Exploring the language to contrast concurrency models and performance against Python.
 
-- Designing and building RESTful APIs with Django (views, serializers, routers, permissions)
-- Implementing authentication flows (sessions, tokens, JWT)
-- Applying clean code practices to backend logic
-- Finishing the last projects to graduate
+#### 🌐 Frontend & QA (Expansion)
+- **[Full Stack Open](https://fullstackopen.com/en/):** A deep dive into modern web development to master **React**, **Testing/QA**, and CI/CD pipelines.
 
-### ✅ Recently Completed
-
-- 📚 *Django for Beginners* by William S. Vincent — [Final Project](https://github.com/lucasgodina/news)
-- Built a complete news platform from scratch (models, views, forms, templates, and user auth)
-
-### 🔜 Next Goals
-
-- Build a full-stack project using Django + React
-- Learn deployment tools (Docker, Railway, Render)
-- Revisit Data Science (EDA, Scikit-learn, small ML projects)
-
+#### 🛠️ Engineering Excellence
+- **[The Missing Semester (MIT)](https://missing.csail.mit.edu/):** Mastering command-line proficiency, editors (Vim), and advanced git workflows to optimize my development environment.
 
 ---
-##
+
 ## 🧰 Tech Stack
 
-**Languages & Scripting**  
+**Primary Stack (Backend & Data)**
+<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-
-**Backend Frameworks**  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-4e0eef?logo=adonisjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-
-**Frontend Basics**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-**Databases & ORMs**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-**Data Science**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/-Matplotlib-71D291?logo=matplotlib&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-**Tools & APIs**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white)
+**Frontend & Integration**
+<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![HTMX](https://img.shields.io/badge/-HTMX-3D4F5D?logo=htmx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-
----
-##
-## 🧪 Other Credentials & Learning
-
-- 🎓 **[My DataCamp Portfolio](https://www.datacamp.com/portfolio/lucasgodina)**  
-- ✅ *Data Analyst in Python* — ![Certificate](https://github.com/lucasgodina/lucasgodina/blob/main/certificate_data_analyst_python.pdf)
-
-
-
 ---
 
-### 📫 Contact Me  
-[![Email](https://img.shields.io/badge/Email-lucasgodina@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgodina@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Godina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-godina-726812328/)
-
----
-
-🚀 Open to learning, collaborating, and building great things.  
-Thanks for stopping by! 👨‍💻
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Godina-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-godina-726812328/)
+[![Email](https://img.shields.io/badge/Email-lucasgodina@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucasgodina@gmail.com)
